@@ -1,0 +1,14 @@
+.carousel-item{
+    height:max-content;
+}
+.carousel-item img{
+    height: max-content;
+}
+.nav-link{
+    color:slateblue;
+}
+.navbar{
+    /* navbar-expand-lg 
+    bg-gradient  */
+    background-color: dark;
+}
